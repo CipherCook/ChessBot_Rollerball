@@ -1,5 +1,5 @@
 ## About
-This is a bot for a chess inspired game - Rollerball : which has three different boards - 7x3, 8x4, 8x2, each with its different rules and pieces. Game rules can be found in assignment.pdf.
+This is a bot for a chess inspired game - Rollerball : which has three different boards (7x3, 8x4, 8x2), each with its different rules and pieces. Game rules can be found in a2.pdf and its extensions to the three boards in a5.pdf.
 This was made as an assignment for COL333: Aritificial Intelligence, 2023.
 
 
